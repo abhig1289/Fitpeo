@@ -1,2 +1,1 @@
-# Fitpeo
-Fitpeo assessment
+Fitpeo Assessment app in react and tailwind CSS.

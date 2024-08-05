@@ -1,9 +1,7 @@
 import {
   CircleUserRound,
   Mail,
-  Mails,
   Moon,
-  Search,
   Settings,
   Sun,
 } from "lucide-react";

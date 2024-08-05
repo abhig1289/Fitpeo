@@ -1,14 +1,9 @@
 import {
-  Badge,
   BaggageClaim,
   ChartNoAxesCombined,
-  DollarSign,
   MonitorCheck,
-  Package,
-  ShapesIcon,
   ShoppingBasket,
   ShoppingCart,
-  XCircle,
 } from "lucide-react";
 import React from "react";
 import ActivityChart from "./ActivityChart";

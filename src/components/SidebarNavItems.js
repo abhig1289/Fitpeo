@@ -1,17 +1,10 @@
 import {
-  Boxes,
-  ChartAreaIcon,
-  ChartBar,
-  ChartBarBig,
   ChartColumn,
   Clipboard,
-  Globe,
   HomeIcon,
   LaptopMinimal,
-  LockKeyholeOpen,
   Settings,
   UserCircleIcon,
-  UserCog,
   Wallet,
 } from "lucide-react";
 import React from "react";

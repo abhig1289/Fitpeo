@@ -1,5 +1,5 @@
 import { CircleArrowLeft, CircleArrowRight, Laptop } from "lucide-react";
-import React, { useState } from "react";
+import React from "react";
 import SideBarNavItems from "./SidebarNavItems";
 
 const Sidebar = ({ isOpen, setIsOpen }) => {
